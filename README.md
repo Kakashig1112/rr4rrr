@@ -31,13 +31,13 @@
 ## `ADD BUILDPACK`
 
 ```
-> https://github.com/jayshreeanand/heroku-buildpack-libwebp.git
+https://github.com/jayshreeanand/heroku-buildpack-libwebp.git
 ```
 ```
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 ```
-> https://github.com/nrj/heroku-buildpack-imagemagick-webp
+https://github.com/nrj/heroku-buildpack-imagemagick-webp
 ```
 
 # Installation
