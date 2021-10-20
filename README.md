@@ -31,7 +31,7 @@
 ## `ADD BUILDPACK`
 
 ```
-> heroku create --buildpack https://github.com/jayshreeanand/heroku-buildpack-libwebp.git
+> https://github.com/jayshreeanand/heroku-buildpack-libwebp.git
 > https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 
