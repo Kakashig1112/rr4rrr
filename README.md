@@ -19,7 +19,7 @@
 </p>
 
 ## 'Deploy'
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/Doge-Bot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/Doge-Bot/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
